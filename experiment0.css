@@ -1,0 +1,48 @@
+h1{
+    font: size 67px;
+    color:blueviolet;
+    align-content:center;
+    border-style:solid;
+    border-width:4px;
+    border-color:brown
+    ;
+    background-color:aqua;
+    height:97px;
+
+    
+}
+.pn{
+    font: size 34px;
+    background-color: aquamarine
+    ;
+    border-style:solid;
+    border-radius:20px;
+    
+}
+#abc{
+ font-size:medium;
+ align-content:center;
+ color:red;
+ width:500px;
+ padding:56px;
+ margin:20px;
+
+
+}
+
+.hello{
+
+    /* font-style:italic; */
+    background-color:blue;
+    color:red;
+    font-size:30px;
+    font-family:cursive;
+font-weight:100px;
+line-height:80px;  
+padding-left: 0%;
+
+
+ }
+ .firstclass{
+    background-color: hsl(89%,100%,50%);
+ }
